@@ -6,7 +6,7 @@
 **🔗 GitHub:** https://github.com/ByNoSoftware  
 **📅 Sürüm:** v2.0 (2024)  
 
-![Dil](https://img.shields.io/badge/Dil-Turkce-red)
+![Dil](https://img.shields.io/badge/Dil-Turkçe-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-green)
 
